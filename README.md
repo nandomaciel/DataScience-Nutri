@@ -10,7 +10,7 @@ Analisar dados nutricionais referente aos produtos do Mcdonald's dos EUA, trabal
 
 - Eulle Silva - eulle100@gmail.com
 - Erick Silva - erickoliveira.eos@gmail.com
-- Fernando Maciel - nandomaciel@gmail.com
+- Fernando Maciel - nandormaciel@gmail.com
 - Luís Andrade - luisandrade_araujo@hotmail.com
 - Gabriel Igor - gabriel.igorq@gmail.com
 
